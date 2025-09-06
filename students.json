@@ -1,0 +1,16 @@
+[
+  {
+    "regNo": "23P31A0543",
+    "name": "Suvarna Naradala",
+    "skills": ["Java", "AWS", "Chatbot Development"],
+    "projects": ["Fraud Detection", "Multilingual Chatbot"],
+    "email": "suvarna@example.com"
+  },
+  {
+    "regNo": "23P31A0544",
+    "name": "Jane Smith",
+    "skills": ["Python", "Data Science"],
+    "projects": ["E-commerce Analysis"],
+    "email": "jane@example.com"
+  }
+]
